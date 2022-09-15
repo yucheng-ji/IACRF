@@ -1,4 +1,10 @@
-
+### This is the validation corrosion data obtained from field exposure experiments.
+### The Authors is Yucheng Ji, Ni Li, Zhanming Cheng, Xiaoqian Fu, Min Ao, Menglin Li, Xiaoguang Sun, Thee Chowwanonthapunya, 
+### Dawei Zhang, Kui Xiao, Jingli Ren, Poulumi Dey, Xiaoguang Li, Chaofang Dong*
+### The corresponding author is Prof. Chaofang Dong (cfdong@ustb.edu.cn)
+### The X are Al, Zn, Mg, Cu, Si, Fe, Mn, Cr, Ti, Other, Time, Temperature, Rainfall, pH, Cl,
+### The last column is corroison rate 
+### -----------------------------Under is the data-------------------------------------- ###
 
 
 0.01	4.22	0.03	0.04	0.22	0.60	0.08	0.02	94.78	/	2	27.50	1500	6.10	/
